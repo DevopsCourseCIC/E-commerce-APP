@@ -26,7 +26,7 @@ class Home extends StatelessWidget {
             ),
             Expanded(
               child: GridView.count(
-                crossAxisCount: 2,
+                crossAxisCount: 3,
                 children: [
                   Column(
                     children: [
